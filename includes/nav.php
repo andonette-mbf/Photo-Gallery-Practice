@@ -59,61 +59,12 @@
            </a>
          </div> -->
         </li>
-        <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle nav-link" id="navbarDropdownMenuLink1" data-toggle="dropdown">
-            Examples
-          </a>
-        <!--   <div class="dropdown-menu dropdown-menu-right dropdown-danger" aria-labelledby="navbarDropdownMenuLink1">
-          <a class="dropdown-item" href="../examples/about-us.html">
-            <i class="nc-icon nc-bank"></i> About-us
-          </a>
-          <a class="dropdown-item" href="../examples/add-product.html">
-            <i class="nc-icon nc-basket"></i> Add Product
-          </a>
-          <a class="dropdown-item" href="../examples/blog-post.html">
-            <i class="nc-icon nc-badge"></i> Blog Post
-          </a>
-          <a class="dropdown-item" href="../examples/blog-posts.html">
-            <i class="nc-icon nc-bullet-list-67"></i> Blog Posts
-          </a>
-          <a class="dropdown-item" href="../examples/contact-us.html">
-            <i class="nc-icon nc-mobile"></i> Contact Us
-          </a>
-          <a class="dropdown-item" href="../examples/discover.html">
-            <i class="nc-icon nc-world-2"></i> Discover
-          </a>
-          <a class="dropdown-item" href="../examples/ecommerce.html">
-            <i class="nc-icon nc-send"></i> Ecommerce
-          </a>
-          <a class="dropdown-item" href="../examples/landing-page.html">
-            <i class="nc-icon nc-spaceship"></i> Landing Page
-          </a>
-          <a class="dropdown-item" href="../examples/login-page.html">
-            <i class="nc-icon nc-lock-circle-open"></i> Login Page
-          </a>
-          <a class="dropdown-item" href="../examples/product-page.html">
-            <i class="nc-icon nc-album-2"></i> Product Page
-          </a>
-          <a class="dropdown-item" href="../examples/profile-page.html">
-            <i class="nc-icon nc-single-02"></i> Profile Page
-          </a>
-          <a class="dropdown-item" href="../examples/register-page.html">
-            <i class="nc-icon nc-bookmark-2"></i> Register Page
-          </a>
-          <a class="dropdown-item" href="../examples/search-with-sidebar.html">
-            <i class="nc-icon nc-zoom-split"></i> Search Page
-          </a>
-          <a class="dropdown-item" href="../examples/settings.html">
-            <i class="nc-icon nc-settings-gear-65"></i> Settings Page
-          </a>
-          <a class="dropdown-item" href="../examples/twitter-redesign.html">
-            <i class="nc-icon nc-tie-bow"></i> Twitter
-          </a>
-        </div> -->
+        <li class="nav-item">
+            <a href="admin/" class="nav-link"><i class="fad fa-tachometer-alt-slow mr-2"></i>Admin</a>
         </li>
         <li class="nav-item">
-          <a class="btn btn-round btn-danger" href="https://www.creative-tim.com/product/paper-kit-2-pro" target="_blank">
-            <i class="fal fa-shopping-cart"></i> Buy Now
+          <a class="btn btn-round btn-danger" href="#" target="_blank">
+            <i class="fad fa-shopping-cart"></i> Button
           </a>
         </li>
         <!-- <li class="nav-item">

@@ -7,8 +7,8 @@
       </div>
       <!-- <p>CT</p> -->
     </a>
-    <a href="https://www.creative-tim.com" class="simple-text logo-normal">
-      Creative Tim
+    <a href="#" class="simple-text logo-normal">
+      Gallery
       <!-- <div class="logo-image-big">
         <img src="img/logo-big.png">
       </div> -->
@@ -17,12 +17,12 @@
   <div class="sidebar-wrapper">
     <div class="user">
       <div class="photo">
-        <img src="img/james.jpg" />
+        <img src="img/andi.png" />
       </div>
       <div class="info">
         <a data-toggle="collapse" href="#collapseExample" class="collapsed">
           <span>
-            Chet Faker
+            Andi Wilkinson
             <b class="caret"></b>
           </span>
         </a>
@@ -54,172 +54,35 @@
     <ul class="nav">
       <li class="active">
         <a href="../">
-          <i class="fad fa-browser"></i>
+          <i class="fal fa-browser"></i>
           <p>Front End</p>
         </a>
       </li>
       <li>
-        <a data-toggle="collapse" href="#pagesExamples">
-         <i class="fal fa-star"></i>
-          <p>
-            Pages <b class="caret"></b>
-          </p>
+        <a href="index.php">
+          <i class="fal fa-tachometer-alt-slow mr-2"></i>
+          <p>Dashboard</p>
         </a>
-        <div class="collapse " id="pagesExamples">
-          <ul class="nav">
-            <li>
-              <a href="../examples/pages/timeline.html">
-                <span class="sidebar-mini-icon">T</span>
-                <span class="sidebar-normal"> Timeline </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/pages/login.html">
-                <span class="sidebar-mini-icon">L</span>
-                <span class="sidebar-normal"> Login </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/pages/register.html">
-                <span class="sidebar-mini-icon">R</span>
-                <span class="sidebar-normal"> Register </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/pages/lock.html">
-                <span class="sidebar-mini-icon">LS</span>
-                <span class="sidebar-normal"> Lock Screen </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/pages/user.html">
-                <span class="sidebar-mini-icon">UP</span>
-                <span class="sidebar-normal"> User Profile </span>
-              </a>
-            </li>
-          </ul>
-        </div>
       </li>
       <li>
-        <a data-toggle="collapse" href="#componentsExamples">
-          <i class="fal fa-star"></i>
-          <p>
-            Components <b class="caret"></b>
-          </p>
+        <a href="users.php">
+          <i class="fal fa-users mr-2"></i>
+          <p>Users</p>
         </a>
-        <div class="collapse " id="componentsExamples">
-          <ul class="nav">
-            <li>
-              <a href="../examples/components/buttons.html">
-                <span class="sidebar-mini-icon">B</span>
-                <span class="sidebar-normal"> Buttons </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/components/grid.html">
-                <span class="sidebar-mini-icon">G</span>
-                <span class="sidebar-normal"> Grid System </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/components/panels.html">
-                <span class="sidebar-mini-icon">P</span>
-                <span class="sidebar-normal"> Panels </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/components/sweet-alert.html">
-                <span class="sidebar-mini-icon">SA</span>
-                <span class="sidebar-normal"> Sweet Alert </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/components/notifications.html">
-                <span class="sidebar-mini-icon">N</span>
-                <span class="sidebar-normal"> Notifications </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/components/icons.html">
-                <span class="sidebar-mini-icon">I</span>
-                <span class="sidebar-normal"> Icons </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/components/typography.html">
-                <span class="sidebar-mini-icon">T</span>
-                <span class="sidebar-normal"> Typography </span>
-              </a>
-            </li>
-          </ul>
-        </div>
       </li>
       <li>
-        <a data-toggle="collapse" href="#formsExamples">
-          <i class="fal fa-star"></i>
-          <p>
-            Forms <b class="caret"></b>
-          </p>
+        <a href="upload.php">
+          <i class="fal fa-upload mr-2"></i>
+          <p>Upload</p>
         </a>
-        <div class="collapse " id="formsExamples">
-          <ul class="nav">
-            <li>
-              <a href="../examples/forms/regular.html">
-                <span class="sidebar-mini-icon">RF</span>
-                <span class="sidebar-normal"> Regular Forms </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/forms/extended.html">
-                <span class="sidebar-mini-icon">EF</span>
-                <span class="sidebar-normal"> Extended Forms </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/forms/validation.html">
-                <span class="sidebar-mini-icon">V</span>
-                <span class="sidebar-normal"> Validation Forms </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/forms/wizard.html">
-                <span class="sidebar-mini-icon">W</span>
-                <span class="sidebar-normal"> Wizard </span>
-              </a>
-            </li>
-          </ul>
-        </div>
       </li>
       <li>
-        <a data-toggle="collapse" href="#tablesExamples">
-          <i class="fal fa-star"></i>
-          <p>
-            Tables <b class="caret"></b>
-          </p>
+        <a href="comments.php">
+          <i class="fal fa-comments mr-2"></i>
+          <p>Comments</p>
         </a>
-        <div class="collapse " id="tablesExamples">
-          <ul class="nav">
-            <li>
-              <a href="../examples/tables/regular.html">
-                <span class="sidebar-mini-icon">RT</span>
-                <span class="sidebar-normal"> Regular Tables </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/tables/extended.html">
-                <span class="sidebar-mini-icon">ET</span>
-                <span class="sidebar-normal"> Extended Tables </span>
-              </a>
-            </li>
-            <li>
-              <a href="../examples/tables/datatables.net.html">
-                <span class="sidebar-mini-icon">DT</span>
-                <span class="sidebar-normal"> DataTables.net </span>
-              </a>
-            </li>
-          </ul>
-        </div>
       </li>
+<!--
       <li>
         <a data-toggle="collapse" href="#mapsExamples">
           <i class="fal fa-star"></i>
@@ -249,25 +112,7 @@
             </li>
           </ul>
         </div>
-      </li>
-      <li>
-        <a href="../examples/widgets.html">
-          <i class="fal fa-star"></i>
-          <p>Widgets</p>
-        </a>
-      </li>
-      <li>
-        <a href="../examples/charts.html">
-          <i class="fal fa-star"></i>
-          <p>Charts</p>
-        </a>
-      </li>
-      <li>
-        <a href="../examples/calendar.html">
-        <i class="fal fa-star"></i>
-          <p>Calendar</p>
-        </a>
-      </li>
+      </li> -->
     </ul>
   </div>
 </div>

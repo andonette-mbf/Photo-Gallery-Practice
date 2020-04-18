@@ -3,7 +3,7 @@
     <div class="navbar-wrapper">
       <div class="navbar-minimize">
         <button id="minimizeSidebar" class="btn btn-icon btn-round">
-          <i class="fal fa-star"></i><i class="fal fa-star"></i>
+          <i class="fal fa-arrow-left"></i>
         </button>
       </div>
       <div class="navbar-toggle">
@@ -13,7 +13,7 @@
           <span class="navbar-toggler-bar bar3"></span>
         </button>
       </div>
-      <a class="navbar-brand" href="javascript:;">Paper Dashboard 2 PRO</a>
+      <a class="navbar-brand" href="javascript:;">Gallery System</a>
     </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-bar navbar-kebab"></span>
@@ -26,7 +26,7 @@
           <input type="text" value="" class="form-control" placeholder="Search...">
           <div class="input-group-append">
             <div class="input-group-text">
-          <i class="fal fa-star"></i>
+          <i class="fal fa-search"></i>
             </div>
           </div>
         </div>
